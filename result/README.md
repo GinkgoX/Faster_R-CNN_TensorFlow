@@ -43,17 +43,17 @@ python3 ../tools/demo.py
 
 8、实验结果：
 
-![](C:\Users\ginkgoX\Desktop\results\result\README.assets\4.png)
+![](4.png)
 
 可以看到，没有GPU加速，识别速度至少在32s以上，识别效果见下图：
 
-![](C:\Users\ginkgoX\Desktop\results\result\README.assets\5.png)
+![](5.png)
 
-![](C:\Users\ginkgoX\Desktop\results\result\README.assets\6.png)
+![](6.png)
 
-![](C:\Users\ginkgoX\Desktop\results\result\README.assets\7.png)
+![](7.png)
 
-![](C:\Users\ginkgoX\Desktop\results\result\README.assets\8.png)
+![](8.png)
 
 参考博客：
 
